@@ -20,3 +20,4 @@ Jarvis is a voice recognizer assistant service in Python 3.6.9 It can recognize 
 
 ## Desicion Model
 
+![jarvisdecisionmodel](https://user-images.githubusercontent.com/75907083/130273855-21dd6278-e5be-40c4-8533-801e746e5618.PNG)
